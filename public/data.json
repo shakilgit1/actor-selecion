@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Tomas",
+      "cover": "https://i.ibb.co/c2K9nsG/2.png",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/HnyfPM1/boy2.jpg",
+      "posted_date": "2023-09-11",
+      "salary": 15000,
+      "hashtags": ["book", "garden", "novel"]
+    },
+    {
+      "id": 2,
+      "title": "Cosmos",
+      "cover": "https://i.ibb.co/C02BQmd/1.jpg",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/X55GGt4/girl1.jpg",
+      "posted_date": "2023-09-10",
+      "salary": 4730,
+      "hashtags": ["space", "science", "astronomy"]
+    },
+    {
+      "id": 3,
+      "title": "Harry",
+      "cover": "https://i.ibb.co/2tD64XN/3.png",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/tz8FZd7/boy1.png",
+      "posted_date": "2023-09-09",
+      "salary": 12520,
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 4,
+      "title": "Peter",
+      "cover": "https://i.ibb.co/C02BQmd/1.jpg",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/pxFH78X/girl2.jpg",
+      "posted_date": "2023-09-08",
+      "salary": 4000,
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 5,
+      "title": "Rose",
+      "cover": "https://i.ibb.co/RzM3WBP/4.jpg",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/khr3hch/profile.png",
+      "posted_date": "2023-09-07",
+      "salary": 9500,
+      "hashtags": ["technology", "trends", "innovation"]
+    }
+  ]
+  
